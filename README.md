@@ -1,4 +1,6 @@
 # SQL Cleaning
+## Read data
+### First 10  rows
 
 ```SQL
 SELECT * FROM club_member_info cmi LIMIT 10;
